@@ -1,0 +1,17 @@
+@media (min-width: 1201px) {
+  .split-bar {
+    width: 40%;
+  }
+}
+
+@media (max-width: 1200px) {
+    .split-bar {
+      width: 60%;
+    }
+  }
+
+@media (max-width: 800px) {
+  .split-bar {
+    width: 90%;
+  }
+}

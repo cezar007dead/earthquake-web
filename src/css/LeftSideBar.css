@@ -1,0 +1,17 @@
+.table-responsive {
+  height: 100%;
+  overflow: auto;
+}
+
+@media (min-width:801px){
+  .responsive-table-text{
+     font-size: 14px;
+  }
+}
+
+
+@media (max-width:800px){
+  .responsive-table-text{
+    font-size: 12px;
+  }
+}
